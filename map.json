@@ -1,7 +1,14 @@
 [
   {
     "name": "Prada Testing Group",
-    "code": "PRADA-TEST"
+    "code": "PRADA-TEST",
+    "excluded_drugs": [],
+    "clinics": [
+      {
+        "name": "Prada Test",
+        "code": "PRADA-TEST"
+      }
+    ]
   },
   {
     "name": "Canada",
