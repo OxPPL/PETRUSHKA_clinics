@@ -1,5 +1,9 @@
 [
   {
+    "name": "Prada Testing Group",
+    "code": "PRADA-TEST"
+  },
+  {
     "name": "Canada",
     "code": "CAN",
     "excluded_drugs": [
